@@ -579,3 +579,5 @@ C:\Users\VC-Virtual\Documents\Visual Studio 2012\Projects\ConferenceManagementSy
 C:\Users\VC-Virtual\Documents\Visual Studio 2012\Projects\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.csprojResolveAssemblyReference.cache
 C:\Users\VC-Virtual\Documents\Visual Studio 2012\Projects\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.dll
 C:\Users\VC-Virtual\Documents\Visual Studio 2012\Projects\ConferenceManagementSystem\ConferenceManagementSystem\obj\Debug\ConferenceManagementSystem.pdb
+C:\Users\VC-Virtual\Documents\Visual Studio 2012\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\JsonServices.dll
+C:\Users\VC-Virtual\Documents\Visual Studio 2012\Projects\ConferenceManagementSystem\ConferenceManagementSystem\bin\JsonServices.Web.dll
