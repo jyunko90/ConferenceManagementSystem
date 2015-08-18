@@ -6,7 +6,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 
-namespace ConferenceRESTSystem
+namespace ConferenceManagementSystem
 {
     public class Handler1 : JsonHandler
     {
