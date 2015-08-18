@@ -45,10 +45,12 @@
     <Reference Include="BotDetect.Web.UI.Mvc">
       <HintPath>..\packages\Captcha.3.0.16.0\lib\net45\BotDetect.Web.UI.Mvc.dll</HintPath>
     </Reference>
-    <Reference Include="JsonServices">
+    <Reference Include="JsonServices, Version=0.3.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\Downloads\conference app\JsonServices-0.3.4\JsonServices (0.3.4)\JsonServices.dll</HintPath>
     </Reference>
-    <Reference Include="JsonServices.Web">
+    <Reference Include="JsonServices.Web, Version=0.3.4.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
       <HintPath>..\..\..\..\..\Downloads\conference app\JsonServices-0.3.4\JsonServices (0.3.4)\JsonServices.Web.dll</HintPath>
     </Reference>
     <Reference Include="Microsoft.CSharp" />
